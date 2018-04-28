@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0A46FA3A207B002700D6EDF9 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A46FA39207B002700D6EDF9 /* main.cpp */; };
 		0A46FA42207B070F00D6EDF9 /* LeetCode_2_AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A46FA40207B070F00D6EDF9 /* LeetCode_2_AddTwoNumbers.cpp */; };
+		0AC582BB208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0AC582B9208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.cpp */; };
 		0AF9F25F207DA186003C8F76 /* LeetCode_3_LengthOfLongestSubstring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0AF9F25D207DA186003C8F76 /* LeetCode_3_LengthOfLongestSubstring.cpp */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,8 @@
 		0A46FA39207B002700D6EDF9 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0A46FA40207B070F00D6EDF9 /* LeetCode_2_AddTwoNumbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LeetCode_2_AddTwoNumbers.cpp; sourceTree = "<group>"; };
 		0A46FA41207B070F00D6EDF9 /* LeetCode_2_AddTwoNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeetCode_2_AddTwoNumbers.hpp; sourceTree = "<group>"; };
+		0AC582B9208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LeetCode_4_MedianOfTwoSortedArrays.cpp; sourceTree = "<group>"; };
+		0AC582BA208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeetCode_4_MedianOfTwoSortedArrays.hpp; sourceTree = "<group>"; };
 		0AF9F25D207DA186003C8F76 /* LeetCode_3_LengthOfLongestSubstring.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LeetCode_3_LengthOfLongestSubstring.cpp; sourceTree = "<group>"; };
 		0AF9F25E207DA186003C8F76 /* LeetCode_3_LengthOfLongestSubstring.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeetCode_3_LengthOfLongestSubstring.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,6 +71,8 @@
 				0A46FA41207B070F00D6EDF9 /* LeetCode_2_AddTwoNumbers.hpp */,
 				0AF9F25D207DA186003C8F76 /* LeetCode_3_LengthOfLongestSubstring.cpp */,
 				0AF9F25E207DA186003C8F76 /* LeetCode_3_LengthOfLongestSubstring.hpp */,
+				0AC582B9208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.cpp */,
+				0AC582BA208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.hpp */,
 			);
 			path = arithmetic;
 			sourceTree = "<group>";
@@ -131,6 +136,7 @@
 			files = (
 				0A46FA3A207B002700D6EDF9 /* main.cpp in Sources */,
 				0AF9F25F207DA186003C8F76 /* LeetCode_3_LengthOfLongestSubstring.cpp in Sources */,
+				0AC582BB208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.cpp in Sources */,
 				0A46FA42207B070F00D6EDF9 /* LeetCode_2_AddTwoNumbers.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
