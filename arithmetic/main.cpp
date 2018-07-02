@@ -13,6 +13,7 @@
 #include "LeetCode_5_LongestPalindrome.hpp"
 #include "LeetCode_6_ZigZagConversion.hpp"
 #include "LeetCode_7_ReverseInteger.hpp"
+#include "LeetCode_8_StringToInteger.hpp"
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
@@ -22,6 +23,8 @@ int main(int argc, const char * argv[]) {
 //    LeetCode_4_MedianOfTwoSortedArrays::main(argc,argv);
 //    LeetCode_5_LongestPalindrome::main(argc, argv);
 //    LeetCode_6_ZigZagConversion::main(argc, argv);
-    LeetCode_7_ReverseInteger::main(argc, argv);
+//    LeetCode_7_ReverseInteger::main(argc, argv);
+    LeetCode_8_StringToInteger::main(argc, argv);
+    
     return 0;
 }
