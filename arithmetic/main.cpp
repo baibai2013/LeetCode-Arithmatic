@@ -14,6 +14,7 @@
 #include "LeetCode_6_ZigZagConversion.hpp"
 #include "LeetCode_7_ReverseInteger.hpp"
 #include "LeetCode_8_StringToInteger.hpp"
+#include "LeetCode_9_IsPalindrome.hpp"
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
@@ -24,7 +25,7 @@ int main(int argc, const char * argv[]) {
 //    LeetCode_5_LongestPalindrome::main(argc, argv);
 //    LeetCode_6_ZigZagConversion::main(argc, argv);
 //    LeetCode_7_ReverseInteger::main(argc, argv);
-    LeetCode_8_StringToInteger::main(argc, argv);
-    
+//    LeetCode_8_StringToInteger::main(argc, argv);
+    LeetCode_9_IsPalindrom::main(argc, argv);
     return 0;
 }
