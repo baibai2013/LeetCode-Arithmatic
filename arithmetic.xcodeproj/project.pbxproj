@@ -14,6 +14,7 @@
 		0A718BDC211BD9D800D6EB27 /* LeetCode_9_IsPalindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A718BDA211BD9D800D6EB27 /* LeetCode_9_IsPalindrome.cpp */; };
 		0AC582BB208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0AC582B9208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.cpp */; };
 		0ACC1C4720AA76CD00BC79BC /* LeetCode_5_LongestPalindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0ACC1C4520AA76CD00BC79BC /* LeetCode_5_LongestPalindrome.cpp */; };
+		0AD52E3C22754F1F00267542 /* LeetCode_12_IntegerToRoman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0AD52E3A22754F1F00267542 /* LeetCode_12_IntegerToRoman.cpp */; };
 		0ADD521722641BBF00E9BF5E /* LeetCode_10_RegularExpressionMatching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0ADD521522641BBF00E9BF5E /* LeetCode_10_RegularExpressionMatching.cpp */; };
 		0AE5DD0720B561EA003E248C /* LeetCode_6_ZigZagConversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0AE5DD0520B561EA003E248C /* LeetCode_6_ZigZagConversion.cpp */; };
 		0AE5DD0A20B6B013003E248C /* LeetCode_7_ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0AE5DD0820B6B013003E248C /* LeetCode_7_ReverseInteger.cpp */; };
@@ -47,6 +48,8 @@
 		0AC582BA208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeetCode_4_MedianOfTwoSortedArrays.hpp; sourceTree = "<group>"; };
 		0ACC1C4520AA76CD00BC79BC /* LeetCode_5_LongestPalindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LeetCode_5_LongestPalindrome.cpp; sourceTree = "<group>"; };
 		0ACC1C4620AA76CD00BC79BC /* LeetCode_5_LongestPalindrome.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeetCode_5_LongestPalindrome.hpp; sourceTree = "<group>"; };
+		0AD52E3A22754F1F00267542 /* LeetCode_12_IntegerToRoman.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LeetCode_12_IntegerToRoman.cpp; sourceTree = "<group>"; };
+		0AD52E3B22754F1F00267542 /* LeetCode_12_IntegerToRoman.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeetCode_12_IntegerToRoman.hpp; sourceTree = "<group>"; };
 		0ADD521522641BBF00E9BF5E /* LeetCode_10_RegularExpressionMatching.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LeetCode_10_RegularExpressionMatching.cpp; sourceTree = "<group>"; };
 		0ADD521622641BBF00E9BF5E /* LeetCode_10_RegularExpressionMatching.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = LeetCode_10_RegularExpressionMatching.hpp; sourceTree = "<group>"; };
 		0AE5DD0520B561EA003E248C /* LeetCode_6_ZigZagConversion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LeetCode_6_ZigZagConversion.cpp; sourceTree = "<group>"; };
@@ -108,6 +111,8 @@
 				0ADD521622641BBF00E9BF5E /* LeetCode_10_RegularExpressionMatching.hpp */,
 				0A479A252265665F00F75B70 /* LeetCode_11_ContainerWithMostWater.cpp */,
 				0A479A262265665F00F75B70 /* LeetCode_11_ContainerWithMostWater.hpp */,
+				0AD52E3A22754F1F00267542 /* LeetCode_12_IntegerToRoman.cpp */,
+				0AD52E3B22754F1F00267542 /* LeetCode_12_IntegerToRoman.hpp */,
 			);
 			path = arithmetic;
 			sourceTree = "<group>";
@@ -180,6 +185,7 @@
 				0AE5DD0720B561EA003E248C /* LeetCode_6_ZigZagConversion.cpp in Sources */,
 				0AC582BB208436A700E87429 /* LeetCode_4_MedianOfTwoSortedArrays.cpp in Sources */,
 				0A46FA42207B070F00D6EDF9 /* LeetCode_2_AddTwoNumbers.cpp in Sources */,
+				0AD52E3C22754F1F00267542 /* LeetCode_12_IntegerToRoman.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
